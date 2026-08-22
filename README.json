@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T03:19:45Z",
                 "owner": "titanwings",
                 "repo": "colleague-skill",
-                "stars": 23726
+                "stars": 23790
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-02T23:09:50Z",
                 "owner": "leilei926524-tech",
                 "repo": "anti-distill",
-                "stars": 2383
+                "stars": 2384
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-06-11T05:53:25Z",
                 "owner": "vogtsw",
                 "repo": "boss-skills",
-                "stars": 238
+                "stars": 239
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-04-08T16:46:35Z",
                 "owner": "therealXiaomanChu",
                 "repo": "ex-skill",
-                "stars": 6080
+                "stars": 6085
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-08-02T01:08:58Z",
                 "owner": "xiaoheizi8",
                 "repo": "crush-skills",
-                "stars": 241
+                "stars": 240
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-04-15T03:21:58Z",
                 "owner": "agenmod",
                 "repo": "immortal-skill",
-                "stars": 993
+                "stars": 992
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-05-27T16:12:57Z",
                 "owner": "alchaincyf",
                 "repo": "steve-jobs-skill",
-                "stars": 927
+                "stars": 929
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-05-28T00:07:36Z",
                 "owner": "alchaincyf",
                 "repo": "elon-musk-skill",
-                "stars": 487
+                "stars": 488
               }
             },
             {
@@ -398,7 +398,7 @@
                 "last_commit": "2026-05-28T00:07:39Z",
                 "owner": "alchaincyf",
                 "repo": "feynman-skill",
-                "stars": 252
+                "stars": 254
               }
             },
             {
@@ -510,7 +510,7 @@
                 "last_commit": "2026-08-16T08:49:13Z",
                 "owner": "KKKKhazix",
                 "repo": "khazix-skills",
-                "stars": 19924
+                "stars": 19947
               }
             },
             {
@@ -525,7 +525,7 @@
                 "last_commit": "2026-05-28T00:10:21Z",
                 "owner": "alchaincyf",
                 "repo": "zhangxuefeng-skill",
-                "stars": 10177
+                "stars": 10181
               }
             },
             {
@@ -540,7 +540,7 @@
                 "last_commit": "2026-06-22T07:00:28Z",
                 "owner": "hotcoffeeshake",
                 "repo": "tong-jincheng-skill",
-                "stars": 2579
+                "stars": 2582
               }
             },
             {
@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 1247940076,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T13:28:59Z",
+                "last_commit": "2026-08-21T13:27:37Z",
                 "owner": "ChouChiu",
                 "repo": "heya-skill",
                 "stars": 16
@@ -645,7 +645,7 @@
                 "last_commit": "2026-04-27T03:19:07Z",
                 "owner": "YeJe-cpu",
                 "repo": "saul-goodman-skill",
-                "stars": 1
+                "stars": 2
               }
             }
           ],
@@ -667,7 +667,7 @@
                 "last_commit": "2026-08-17T17:53:04Z",
                 "owner": "jinchenma94",
                 "repo": "bazi-skill",
-                "stars": 2634
+                "stars": 2643
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2026-08-19T11:59:07Z",
                 "owner": "leezythu",
                 "repo": "maoxuan-skill",
-                "stars": 1067
+                "stars": 1071
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2026-08-18T08:01:04Z",
                 "owner": "xr843",
                 "repo": "Master-skill",
-                "stars": 320
+                "stars": 321
               }
             },
             {
@@ -846,7 +846,7 @@
                 "last_commit": "2026-07-27T04:38:20Z",
                 "owner": "alchaincyf",
                 "repo": "nuwa-skill",
-                "stars": 31089
+                "stars": 31138
               }
             },
             {
@@ -861,7 +861,7 @@
                 "last_commit": "2026-08-07T03:58:08Z",
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 24571
+                "stars": 24616
               }
             },
             {
@@ -876,7 +876,7 @@
                 "last_commit": "2026-08-17T08:33:43Z",
                 "owner": "kangarooking",
                 "repo": "cangjie-skill",
-                "stars": 8547
+                "stars": 8625
               }
             },
             {
@@ -891,7 +891,7 @@
                 "last_commit": "2026-07-27T04:35:52Z",
                 "owner": "alchaincyf",
                 "repo": "darwin-skill",
-                "stars": 5676
+                "stars": 5687
               }
             },
             {
@@ -903,10 +903,10 @@
                 "archived": false,
                 "id": 1193374549,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T06:48:07Z",
+                "last_commit": "2026-08-22T06:29:05Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3388
+                "stars": 3389
               }
             },
             {
@@ -921,7 +921,7 @@
                 "last_commit": "2026-08-11T15:07:45Z",
                 "owner": "KKKKhazix",
                 "repo": "human-writing",
-                "stars": 2938
+                "stars": 2968
               }
             },
             {
@@ -936,7 +936,7 @@
                 "last_commit": "2026-05-28T00:11:59Z",
                 "owner": "alchaincyf",
                 "repo": "x-mentor-skill",
-                "stars": 1170
+                "stars": 1172
               }
             },
             {
@@ -1026,7 +1026,7 @@
                 "last_commit": "2026-08-12T05:48:52Z",
                 "owner": "franklinxkk",
                 "repo": "ai-delivery-spec",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -1099,7 +1099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:27:09.742Z",
+    "last_updated": "2026-08-22T13:10:26.650Z",
     "original_repository": "tmstack/awesome-persona-skills",
     "original_repository_id": 1202407194,
     "original_repository_sha": "859ab89774bc565bc63490e6b9774c214ad33ba4",
