@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T03:47:51Z",
                 "owner": "titanwings",
                 "repo": "distilly",
-                "stars": 23895
+                "stars": 23898
               }
             },
             {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-05-28T00:08:59Z",
                 "owner": "alchaincyf",
                 "repo": "zhang-yiming-skill",
-                "stars": 161
+                "stars": 162
               }
             },
             {
@@ -525,7 +525,7 @@
                 "last_commit": "2026-05-28T00:10:21Z",
                 "owner": "alchaincyf",
                 "repo": "zhangxuefeng-skill",
-                "stars": 10185
+                "stars": 10186
               }
             },
             {
@@ -582,7 +582,7 @@
                 "archived": false,
                 "id": 1247940076,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T13:12:20Z",
+                "last_commit": "2026-08-24T13:32:14Z",
                 "owner": "ChouChiu",
                 "repo": "heya-skill",
                 "stars": 16
@@ -667,7 +667,7 @@
                 "last_commit": "2026-08-17T17:53:04Z",
                 "owner": "jinchenma94",
                 "repo": "bazi-skill",
-                "stars": 2666
+                "stars": 2667
               }
             },
             {
@@ -846,7 +846,7 @@
                 "last_commit": "2026-07-27T04:38:20Z",
                 "owner": "alchaincyf",
                 "repo": "nuwa-skill",
-                "stars": 31274
+                "stars": 31276
               }
             },
             {
@@ -861,7 +861,7 @@
                 "last_commit": "2026-08-07T03:58:08Z",
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 24753
+                "stars": 24754
               }
             },
             {
@@ -876,7 +876,7 @@
                 "last_commit": "2026-08-23T17:08:46Z",
                 "owner": "kangarooking",
                 "repo": "cangjie-skill",
-                "stars": 8818
+                "stars": 8820
               }
             },
             {
@@ -906,7 +906,7 @@
                 "last_commit": "2026-08-22T06:29:05Z",
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3396
+                "stars": 3397
               }
             },
             {
@@ -1016,8 +1016,8 @@
             },
             {
               "node_type": "item",
-              "title": "AI Delivery Spec - Spec-driven delivery framework: PRD+FRR+AC-YAML+WBS from prototypes. Works with Claude Code/Cursor/Codex. v4.9.7.",
-              "description": null,
+              "title": "AI Delivery Spec",
+              "description": "Spec-driven delivery framework: PRD+FRR+AC-YAML+WBS from prototypes. Works with Claude Code/Cursor/Codex. v4.9.7.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1099,7 +1099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:31:55.290Z",
+    "last_updated": "2026-08-24T13:57:50.180Z",
     "original_repository": "tmstack/awesome-persona-skills",
     "original_repository_id": 1202407194,
     "original_repository_sha": "859ab89774bc565bc63490e6b9774c214ad33ba4",
