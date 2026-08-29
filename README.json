@@ -12,12 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+                "homepage": null,
                 "id": 1195828337,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T07:18:07Z",
+                "open_issues": 32,
                 "owner": "titanwings",
                 "repo": "distilly",
-                "stars": 24092
+                "stars": 24103,
+                "topics": [
+                  "agent-skills",
+                  "agentic-ai",
+                  "ai-agent",
+                  "ai-agents",
+                  "ai-assistants",
+                  "ai-persona",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "codex-skills",
+                  "deepseek-harness",
+                  "digital-human",
+                  "dsh-plugin",
+                  "hermes-agent",
+                  "knowledge-distillation",
+                  "llm-agent",
+                  "meta-skill",
+                  "openclaw",
+                  "opencode"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -28,12 +53,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.",
+                "homepage": null,
                 "id": 1199437437,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-02T23:09:50Z",
+                "open_issues": 10,
                 "owner": "leilei926524-tech",
                 "repo": "anti-distill",
-                "stars": 2404
+                "stars": 2406,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -44,12 +74,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "老板.skills. 把老板炼入token，把生产力的解放留给自己。Alchemize your boss into a token, and keep the liberation of productivity for yourself.",
+                "homepage": null,
                 "id": 1197329615,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-11T05:53:25Z",
+                "open_issues": 4,
                 "owner": "vogtsw",
                 "repo": "boss-skills",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -60,12 +95,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1196855158,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-04-07T04:55:47Z",
+                "open_issues": 6,
                 "owner": "ybq22",
                 "repo": "supervisor",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -76,12 +116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill。",
+                "homepage": null,
                 "id": 1199435898,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-10T08:36:02Z",
+                "open_issues": 3,
                 "owner": "zhang-haichao",
                 "repo": "senpai-skill",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -92,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "把不会划重点的老师，蒸馏成会救你期末的 Skill. Distill course materials into professor-style review, question patterns, and grading hints.",
+                "homepage": null,
                 "id": 1200074797,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-11T10:06:59Z",
+                "open_issues": 5,
                 "owner": "CommitHu502Craft",
                 "repo": "professor-skill",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -108,12 +158,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "收了太多拒信？现在轮到你了。 Because you've received enough rejections. Now it's your turn. CN/EN bilingual HR rejection skill.",
+                "homepage": null,
                 "id": 1202476007,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-06T20:23:17Z",
+                "open_issues": 0,
                 "owner": "Schlaflied",
                 "repo": "hr-skill",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "agent-skills",
+                  "ai-skills",
+                  "claude-code",
+                  "claude-skills",
+                  "hr",
+                  "job",
+                  "job-search"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -131,12 +194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "把前任蒸馏成 AI Skill，用ta的方式跟你说话。",
+                "homepage": null,
                 "id": 1197055882,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-08T16:46:35Z",
+                "open_issues": 20,
                 "owner": "therealXiaomanChu",
                 "repo": "ex-skill",
-                "stars": 6132
+                "stars": 6132,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -147,12 +215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "与其迷恋幻影，不如迷恋Crush。欢迎加入数字永生！Inspired by colleague-skill（同事skill）.",
+                "homepage": null,
                 "id": 1199058630,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T10:51:35Z",
+                "open_issues": 3,
                 "owner": "xiaoheizi8",
                 "repo": "crush-skills",
-                "stars": 340
+                "stars": 340,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -163,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "多年不见，她还好吗？再也回不去的那个盛夏，在嘴边说不出口的话 。 如果当初勇敢点，结果会不会改变？  不妨把过去的她蒸馏，找寻自己想要的答案。 Inspired by colleague-skill（同事skill）and ex-skill（前任skill）.",
+                "homepage": null,
                 "id": 1200549498,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-09T07:10:16Z",
+                "open_issues": 3,
                 "owner": "ceetity",
                 "repo": "her-skill",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -179,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "与其向往远方的山海，不如感恩身后的港湾。欢迎加入数字永生！Inspired by colleague-skill（同事skill）.",
+                "homepage": null,
                 "id": 1199062292,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-02T14:09:12Z",
+                "open_issues": 1,
                 "owner": "xiaoheizi8",
                 "repo": "parents-skills",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -195,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distill your partner into a living AI Skill. Relationship maintenance and enhancement powered by attachment theory, social exchange theory, and love psychology.",
+                "homepage": null,
                 "id": 1201391063,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-04T18:29:43Z",
+                "open_issues": 0,
                 "owner": "NatalieCao323",
                 "repo": "partner-skill",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -211,12 +299,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distill your bros. The ones who make you laugh until you can't breathe. The ones who say stupid things that somehow make sense. Online or offline — if they're your brother, this skill remembers everything about them.",
+                "homepage": null,
                 "id": 1206820090,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-10T10:32:40Z",
+                "open_issues": 0,
                 "owner": "henryjohnbrand",
                 "repo": "brother-skill",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ai-agents",
+                  "bro",
+                  "brother",
+                  "claude-code",
+                  "comedy",
+                  "friend",
+                  "hermes-agent",
+                  "influencer",
+                  "internet",
+                  "openclaw",
+                  "self-learning",
+                  "skill"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -227,12 +333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1200563107,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-03T15:41:01Z",
+                "open_issues": 0,
                 "owner": "z969081067-commits",
                 "repo": "first-love-skill",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -243,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "将恋爱双方蒸馏成AI skill，实现赛博恋爱，用于快速验证双方性格。",
+                "homepage": null,
                 "id": 1210417536,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-07T08:05:03Z",
+                "open_issues": 0,
                 "owner": "YuzeHao2023",
                 "repo": "love-skill",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -266,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！Inspired by colleague-skill（同事skill）。",
+                "homepage": null,
                 "id": 1198519767,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T16:38:03Z",
+                "open_issues": 20,
                 "owner": "notdog1998",
                 "repo": "yourself-skill",
-                "stars": 3332
+                "stars": 3332,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -282,12 +403,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。",
+                "homepage": "https://agenworld.com",
                 "id": 1198654685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-15T03:21:58Z",
+                "open_issues": 6,
                 "owner": "agenmod",
                 "repo": "immortal-skill",
-                "stars": 1008
+                "stars": 1008,
+                "topics": [
+                  "agent-skills",
+                  "ai-agent",
+                  "chatbot",
+                  "cursor",
+                  "digital-immortality",
+                  "digital-twin",
+                  "distillation",
+                  "feishu",
+                  "llm",
+                  "openclaw",
+                  "persona",
+                  "soul-spec",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -298,12 +438,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "万物皆可 Relic — 给灵魂开个 GitHub | Universal Digital Immortality Engine 🧬",
+                "homepage": null,
                 "id": 1205116781,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-09T17:58:36Z",
+                "open_issues": 1,
                 "owner": "Ylsssq926",
                 "repo": "relic.skill",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "agent-skill",
+                  "ai-skill",
+                  "claude-code",
+                  "cline",
+                  "cursor",
+                  "digital-immortality",
+                  "digital-twin",
+                  "distillation",
+                  "github-copilot",
+                  "kiro",
+                  "memory",
+                  "opencode",
+                  "persona",
+                  "pet",
+                  "relic",
+                  "skill-md",
+                  "soul",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -314,12 +478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "数字人生.skills — 用数字痕迹照见真实的自己",
+                "homepage": null,
                 "id": 1197977137,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-30T15:49:14Z",
+                "open_issues": 0,
                 "owner": "wildbyteai",
                 "repo": "digital-life",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -330,12 +499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "如果再给我一次机会，我一定会在赚钱的时候卖掉",
+                "homepage": "https://github.com/tmstack/awesome-persona-skills",
                 "id": 1204975763,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-08T14:46:03Z",
+                "open_issues": 1,
                 "owner": "tmstack",
                 "repo": "retail-investors",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -353,12 +527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "乔布斯.skill — Steve Jobs的认知操作系统。6个心智模型 + 8条决策启发式 + 完整表达DNA。由女娲.skill生成。",
+                "homepage": null,
                 "id": 1201942857,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:05:14Z",
+                "open_issues": 3,
                 "owner": "alchaincyf",
                 "repo": "steve-jobs-skill",
-                "stars": 940
+                "stars": 940,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -369,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "马斯克.skill — Elon Musk的认知操作系统。由女娲.skill生成。",
+                "homepage": null,
                 "id": 1201946778,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:04:57Z",
+                "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "elon-musk-skill",
-                "stars": 500
+                "stars": 500,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -385,12 +569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "芒格.skill — 查理·芒格的认知操作系统。由女娲.skill生成。",
+                "homepage": null,
                 "id": 1201946711,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:04:21Z",
+                "open_issues": 2,
                 "owner": "alchaincyf",
                 "repo": "munger-skill",
-                "stars": 353
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -401,12 +590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "特朗普的思维操作系统。不是模仿秀，是可运行的谈判与权力分析框架。Made with 女娲.skill",
+                "homepage": null,
                 "id": 1203031153,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:03:36Z",
+                "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "trump-skill",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -417,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "费曼.skill — 理查德·费曼的认知操作系统。由女娲.skill生成。",
+                "homepage": null,
                 "id": 1201949223,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:04:44Z",
+                "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "feynman-skill",
-                "stars": 259
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -433,12 +632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "纳瓦尔.skill — Naval Ravikant的认知操作系统。由女娲.skill生成。",
+                "homepage": null,
                 "id": 1201946559,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:04:11Z",
+                "open_issues": 2,
                 "owner": "alchaincyf",
                 "repo": "naval-skill",
-                "stars": 241
+                "stars": 241,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -449,12 +653,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "巴菲特思维操作系统 | Warren Buffett Cognitive Framework - Claude Code Skill",
+                "homepage": null,
                 "id": 1202417965,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-06T02:12:49Z",
+                "open_issues": 2,
                 "owner": "will2025btc",
                 "repo": "buffett-perspective",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -465,12 +674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "张一鸣的认知操作系统。不是语录合集，是可运行的思维框架。Made with 女娲.skill",
+                "homepage": null,
                 "id": 1203030418,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:03:28Z",
+                "open_issues": 2,
                 "owner": "alchaincyf",
                 "repo": "zhang-yiming-skill",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -481,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "塔勒布.skill — Nassim Taleb的认知操作系统。由女娲.skill生成。",
+                "homepage": null,
                 "id": 1201952391,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:03:45Z",
+                "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "taleb-skill",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -497,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "段永平（大道）思维操作系统 Duan Yongping Thinking & Operating System",
+                "homepage": null,
                 "id": 1202975074,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-06T15:43:46Z",
+                "open_issues": 1,
                 "owner": "derrickgong87",
                 "repo": "duan-yongping-skill",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -513,12 +737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1205717418,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-09T08:08:52Z",
+                "open_issues": 0,
                 "owner": "JikunR",
                 "repo": "zizek-skill",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -536,12 +765,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents",
+                "homepage": null,
                 "id": 1202599845,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-16T08:49:13Z",
+                "open_issues": 46,
                 "owner": "KKKKhazix",
                 "repo": "khazix-skills",
-                "stars": 20217
+                "stars": 20220,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "developer-tools",
+                  "llm",
+                  "skills",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -552,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+                "homepage": null,
                 "id": 1201947430,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:03:20Z",
+                "open_issues": 22,
                 "owner": "alchaincyf",
                 "repo": "zhangxuefeng-skill",
-                "stars": 10211
+                "stars": 10211,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -568,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "童锦程视角 Skill — 用深情祖师爷的思维框架分析人际关系",
+                "homepage": null,
                 "id": 1202158137,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-22T07:00:28Z",
+                "open_issues": 18,
                 "owner": "hotcoffeeshake",
                 "repo": "tong-jincheng-skill",
-                "stars": 2594
+                "stars": 2594,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -584,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "户晨风Skill",
+                "homepage": null,
                 "id": 1202698081,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-08T09:19:40Z",
+                "open_issues": 8,
                 "owner": "Janlaywss",
                 "repo": "hu-chenfeng-skill",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -600,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "峰哥.skill — 蒸馏自峰哥亡命天涯的思维操作系统（基于 nuwa-skill 方法论）",
+                "homepage": null,
                 "id": 1203670144,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-07T09:29:47Z",
+                "open_issues": 0,
                 "owner": "Walshyu",
                 "repo": "fengge-skill",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -616,12 +880,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "基于 B 站博主 黑鸦（Heya）视频标题的深度分析，让 AI 学会黑鸦的标志性风格：长标题、情绪炸弹、多事件合并。",
+                "homepage": "http://hs.wwchun.top/",
                 "id": 1247940076,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T22:31:29Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:33:52Z",
+                "open_issues": 0,
                 "owner": "ChouChiu",
                 "repo": "heya-skill",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "agent-skills",
+                  "agents",
+                  "agents-skills",
+                  "awesome-skills",
+                  "heya",
+                  "skill",
+                  "skills",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -632,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1205838993,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-09T11:06:11Z",
+                "open_issues": 0,
                 "owner": "ByteRax",
                 "repo": "guodegang-skills",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -648,12 +931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "勇哥.skill — 蒸馏自勇哥餐饮创业说(孙继勇)的思维操作系统(基于 nuwa-skill 方法论)",
+                "homepage": null,
                 "id": 1261825524,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-07T14:47:02Z",
+                "open_issues": 0,
                 "owner": "helloworld-danny",
                 "repo": "yongge-perspective",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -664,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1207166713,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-10T17:37:12Z",
+                "open_issues": 1,
                 "owner": "1sh1ro",
                 "repo": "liangxi-skills",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -680,12 +973,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Saul Goodman / Jimmy McGill skill distilled from Better Call Saul（风骚律师 / 索尔古德曼）: persona system, mental models, and expression DNA.",
+                "homepage": null,
                 "id": 1222085378,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-27T03:19:07Z",
+                "open_issues": 0,
                 "owner": "YeJe-cpu",
                 "repo": "saul-goodman-skill",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ai-agents",
+                  "better-call-saul",
+                  "claude-code",
+                  "prompt-engineering",
+                  "skill"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -703,12 +1007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "四柱八字命理分析",
+                "homepage": null,
                 "id": 1201480438,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T17:53:04Z",
+                "open_issues": 6,
                 "owner": "jinchenma94",
                 "repo": "bazi-skill",
-                "stars": 2823
+                "stars": 2824,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -719,12 +1028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "毛选.skill — 让毛泽东的思维框架帮你分析问题、制定策略、看透本质。7个核心心智模型 · 10条决策启发式 · 完整表达DNA。不是复读语录，是用他的认知框架帮你看问题。",
+                "homepage": null,
                 "id": 1202815922,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-19T11:59:07Z",
+                "open_issues": 3,
                 "owner": "leezythu",
                 "repo": "maoxuan-skill",
-                "stars": 1080
+                "stars": 1080,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -735,12 +1049,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FoJin-powered Buddhist AI persona framework — source-grounded, boundary-aware, fidelity-tested, runtime-ready.",
+                "homepage": "https://fojin.app/chat",
                 "id": 1201167354,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T08:01:04Z",
+                "open_issues": 1,
                 "owner": "xr843",
                 "repo": "Master-skill",
-                "stars": 377
+                "stars": 377,
+                "topics": [
+                  "agent-skills",
+                  "ai-persona",
+                  "bdrc",
+                  "buddhism",
+                  "chinese-buddhism",
+                  "claude-skills",
+                  "digital-humanities",
+                  "fojin",
+                  "llm",
+                  "mahamudra",
+                  "rag",
+                  "suttacentral",
+                  "thai-forest-tradition",
+                  "theravada",
+                  "tibetan-buddhism"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -751,12 +1086,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "yinyuan-skills",
+                "homepage": null,
                 "id": 1201828334,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-05T08:09:38Z",
+                "open_issues": 2,
                 "owner": "Ming-H",
                 "repo": "yinyuan-skills",
-                "stars": 332
+                "stars": 333,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -767,12 +1107,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "毛选Skill/新青年Skill/毛泽东选集：把“新中国最会解决问题的脑子”请来，当一次“临时参谋”。157篇原文蒸馏 · 184份拆解稿沉淀 ·18条风险边界 · 8张方法卡 · 6类场景入口 · 2种输出报告，把《毛选》方法论变成可执行的现实分析 skill。用于复杂问题分析、自我管理、团队治理、关系边界与决策判断。",
+                "homepage": null,
                 "id": 1204499820,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-12T06:25:03Z",
+                "open_issues": 0,
                 "owner": "SamadhiFire",
                 "repo": "xinqingnian-maoxuan-skill",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "aiskills",
+                  "maoxuan",
+                  "maozedong",
+                  "xinqingnian"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -783,12 +1133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://dull-bird.github.io/diamond-sutra-skill/",
                 "id": 1205591862,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-05T14:52:21Z",
+                "open_issues": 0,
                 "owner": "dull-bird",
                 "repo": "diamond-sutra-skill",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -799,12 +1154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1217101773,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-22T15:12:31Z",
+                "open_issues": 0,
                 "owner": "momozi1996",
                 "repo": "yongledadian-skill",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -815,12 +1175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "奇门遁甲排盘与预测分析 - Claude Code Skill",
+                "homepage": null,
                 "id": 1208617390,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-12T14:31:08Z",
+                "open_issues": 0,
                 "owner": "SerinaRica",
                 "repo": "qimen.skill",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -838,12 +1203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Not an AI, just a local echo of someone you love. 把逝去亲友的数字遗物蒸馏成纯本地运行的 MCP Skill，为思念写一段永不超时的回调函数。",
+                "homepage": null,
                 "id": 1199393937,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-06T08:46:09Z",
+                "open_issues": 2,
                 "owner": "yangdongchen66-boop",
                 "repo": "reunion-skill",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -854,12 +1224,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "童锦程版舔狗. 祖师爷就不会当舔狗?",
+                "homepage": null,
                 "id": 1211349200,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-15T10:04:18Z",
+                "open_issues": 0,
                 "owner": "Fhui",
                 "repo": "tiangou-skill",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -870,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "内娱.skill - 将歌手/偶像转化为可对话的AI数字人格",
+                "homepage": null,
                 "id": 1200216568,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-06T09:54:03Z",
+                "open_issues": 1,
                 "owner": "yanghaoraneve",
                 "repo": "star-skill",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -893,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
+                "homepage": null,
                 "id": 1201730379,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:02:26Z",
+                "open_issues": 5,
                 "owner": "alchaincyf",
                 "repo": "nuwa-skill",
-                "stars": 31595
+                "stars": 31612,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -909,12 +1294,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+                "homepage": null,
                 "id": 1219042200,
                 "language": "HTML",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-07T03:58:08Z",
+                "open_issues": 40,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 25107
+                "stars": 25116,
+                "topics": [
+                  "ai-agent",
+                  "claude-code",
+                  "codex",
+                  "html-deck",
+                  "image-generation",
+                  "ppt",
+                  "presentation",
+                  "skill",
+                  "skills",
+                  "swiss-design",
+                  "web-ppt"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -925,12 +1327,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）",
+                "homepage": null,
                 "id": 1212163658,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:43:34Z",
+                "open_issues": 15,
                 "owner": "kangarooking",
                 "repo": "cangjie-skill",
-                "stars": 9132
+                "stars": 9139,
+                "topics": [
+                  "agent-workflows",
+                  "ai-skills",
+                  "automation",
+                  "book-to-skill",
+                  "knowledge-distillation",
+                  "prompt-engineering",
+                  "skill-generator",
+                  "templates"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -941,12 +1357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+                "homepage": null,
                 "id": 1209268581,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:01:10Z",
+                "open_issues": 3,
                 "owner": "alchaincyf",
                 "repo": "darwin-skill",
-                "stars": 5789
+                "stars": 5794,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -957,12 +1378,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+                "homepage": "https://notfair.co/",
                 "id": 1193374549,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T00:18:45Z",
+                "open_issues": 12,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3427
+                "stars": 3427,
+                "topics": [
+                  "agents",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "gemini-cli-extension",
+                  "geo",
+                  "googleads",
+                  "googleadsmcp",
+                  "mcp",
+                  "metaads",
+                  "seo"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -973,12 +1410,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+                "homepage": null,
                 "id": 1323511527,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-11T15:07:45Z",
+                "open_issues": 7,
                 "owner": "KKKKhazix",
                 "repo": "human-writing",
-                "stars": 3247
+                "stars": 3252,
+                "topics": [
+                  "agent-skills",
+                  "chinese-writing",
+                  "creative-writing",
+                  "writing-skill"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -989,12 +1436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill",
+                "homepage": null,
                 "id": 1202683283,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:02:58Z",
+                "open_issues": 0,
                 "owner": "alchaincyf",
                 "repo": "x-mentor-skill",
-                "stars": 1186
+                "stars": 1188,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1005,12 +1457,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "【小红书抖音3万人看过的——博主蒸馏器】你研究了 N 个爆款博主，还是说不清任何一个的操作系统。输入博主的链接，直接蒸馏 TA 的认知和内容打法，装进你的 AI。Distill any blogger's mind into your AI.",
+                "homepage": null,
                 "id": 1197331133,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-16T15:48:41Z",
+                "open_issues": 2,
                 "owner": "otter1101",
                 "repo": "blogger-distiller",
-                "stars": 602
+                "stars": 603,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1021,12 +1478,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "饕餮.skill — Skill 进化器，通过吞噬并分析其他 skill 的优势来强化目标 skill | Skill Evolver that strengthens target skills by absorbing advantages from other skills",
+                "homepage": "https://github.com/binggandata/bggg-skill-taotie",
                 "id": 1202947235,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-03T04:16:37Z",
+                "open_issues": 0,
                 "owner": "binggandata",
                 "repo": "bggg-skill-taotie",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1037,12 +1499,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1202226566,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-17T09:48:12Z",
+                "open_issues": 1,
                 "owner": "YourongZhou",
                 "repo": "chat_with_me",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1053,12 +1520,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "导演Skill：面向 AI 视频创作的开源 Agent Skills | Director Skills: Open-source Agent Skills for AI video creation.",
+                "homepage": null,
                 "id": 1323045322,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T15:38:47Z",
+                "open_issues": 0,
                 "owner": "kangarooking",
                 "repo": "director-skills",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "agent-skills",
+                  "ai-video",
+                  "claude-code",
+                  "codex",
+                  "filmmaking",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1069,12 +1548,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎭 万物皆可角色 · 召唤任意小说/游戏/动漫角色或原创人设，生成可对话的 Claude Code Skill",
+                "homepage": null,
                 "id": 1203249534,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-04-13T17:58:04Z",
+                "open_issues": 0,
                 "owner": "MIMIFY",
                 "repo": "skill_everyone",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "agentskills",
+                  "claude-code",
+                  "llm",
+                  "persona",
+                  "roleplaying"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1085,12 +1575,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Requirement management Skill for one human-readable, AI-coding-ready baseline: intake, clarification, PRD/prototype contracts, change, traceability, and acceptance for ToC/ToB/ToG.",
+                "homepage": "https://github.com/franklinxkk/ai-delivery-spec",
                 "id": 1261881239,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:11:47Z",
+                "open_issues": 0,
                 "owner": "franklinxkk",
                 "repo": "ai-delivery-spec",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "acceptance-testing",
+                  "agent-skills",
+                  "ai-coding",
+                  "ai-delivery-spec",
+                  "ai-governance",
+                  "change-management",
+                  "coding-agents",
+                  "domain-knowledge",
+                  "prd",
+                  "product-discovery",
+                  "product-management",
+                  "product-management-skills",
+                  "product-prototyping",
+                  "product-requirements",
+                  "product-truth",
+                  "requirements-clarification",
+                  "requirements-engineering",
+                  "requirements-traceability",
+                  "tob",
+                  "tog"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1101,12 +1617,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dak-news: AI news aggregator",
+                "homepage": "https://dak-news.com",
                 "id": 1187629981,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-12T06:14:24Z",
+                "open_issues": 3,
                 "owner": "LittleLittleCloud",
                 "repo": "The-Grand-Archive",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "ai-agents",
+                  "ai-news",
+                  "ai-news-aggregator",
+                  "claude-code",
+                  "clawdbot",
+                  "news",
+                  "rss",
+                  "rss-feed"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1117,12 +1647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1205640896,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-10T03:53:51Z",
+                "open_issues": 1,
                 "owner": "Aar0nPB",
                 "repo": "curator-skill",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1133,12 +1668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SBTI人格SKILL，给你的Agent赋予人格",
+                "homepage": null,
                 "id": 1206503349,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-10T01:38:39Z",
+                "open_issues": 0,
                 "owner": "whu125",
                 "repo": "sbti-skill",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1149,12 +1689,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A skill to tell AI how to use human as Dobby",
+                "homepage": null,
                 "id": 1206362948,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-04-09T23:28:47Z",
+                "open_issues": 0,
                 "owner": "LittleLittleCloud",
                 "repo": "Dobby",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "dobby",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             }
@@ -1168,15 +1718,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:33:13.383Z",
+    "last_updated": "2026-08-29T04:18:10.583Z",
     "original_repository_info": {
       "archived": false,
+      "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  ",
+      "homepage": "https://openskills.cc",
       "id": 1202407194,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-10T14:47:21Z",
+      "open_issues": 0,
       "owner": "tmstack",
       "repo": "awesome-persona-skills",
-      "stars": 3774
+      "stars": 3776,
+      "topics": [
+        "skills"
+      ]
     },
     "original_repository_sha": "859ab89774bc565bc63490e6b9774c214ad33ba4",
     "enhanced_repository": "enhansome/enhansome-persona-skills",
