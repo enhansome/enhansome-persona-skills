@@ -21,7 +21,7 @@
                 "open_issues": 32,
                 "owner": "titanwings",
                 "repo": "distilly",
-                "stars": 24129,
+                "stars": 24164,
                 "topics": [
                   "agent-skills",
                   "agentic-ai",
@@ -203,7 +203,7 @@
                 "open_issues": 20,
                 "owner": "therealXiaomanChu",
                 "repo": "ex-skill",
-                "stars": 6138,
+                "stars": 6141,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -220,11 +220,11 @@
                 "id": 1199058630,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-27T10:51:35Z",
+                "last_commit": "2026-08-30T13:33:02Z",
                 "open_issues": 3,
                 "owner": "xiaoheizi8",
                 "repo": "crush-skills",
-                "stars": 342,
+                "stars": 343,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -391,7 +391,7 @@
                 "open_issues": 20,
                 "owner": "notdog1998",
                 "repo": "yourself-skill",
-                "stars": 3335,
+                "stars": 3336,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -412,7 +412,7 @@
                 "open_issues": 6,
                 "owner": "agenmod",
                 "repo": "immortal-skill",
-                "stars": 1009,
+                "stars": 1011,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -557,7 +557,7 @@
                 "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "elon-musk-skill",
-                "stars": 500,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -578,7 +578,7 @@
                 "open_issues": 2,
                 "owner": "alchaincyf",
                 "repo": "munger-skill",
-                "stars": 354,
+                "stars": 356,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -620,7 +620,7 @@
                 "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "feynman-skill",
-                "stars": 258,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -641,7 +641,7 @@
                 "open_issues": 2,
                 "owner": "alchaincyf",
                 "repo": "naval-skill",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -683,7 +683,7 @@
                 "open_issues": 2,
                 "owner": "alchaincyf",
                 "repo": "zhang-yiming-skill",
-                "stars": 164,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -704,7 +704,7 @@
                 "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "taleb-skill",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -771,10 +771,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-16T08:49:13Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "KKKKhazix",
                 "repo": "khazix-skills",
-                "stars": 20246,
+                "stars": 20273,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -805,7 +805,7 @@
                 "open_issues": 22,
                 "owner": "alchaincyf",
                 "repo": "zhangxuefeng-skill",
-                "stars": 10217,
+                "stars": 10218,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -826,7 +826,7 @@
                 "open_issues": 18,
                 "owner": "hotcoffeeshake",
                 "repo": "tong-jincheng-skill",
-                "stars": 2597,
+                "stars": 2599,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -868,7 +868,7 @@
                 "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "sun-yuchen-perspective",
-                "stars": 218,
+                "stars": 220,
                 "topics": []
               },
               "first_seen": "2026-08-29T16:50:44.739Z"
@@ -906,7 +906,7 @@
                 "id": 1247940076,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T11:15:23Z",
+                "last_commit": "2026-08-29T16:51:48Z",
                 "open_issues": 0,
                 "owner": "ChouChiu",
                 "repo": "heya-skill",
@@ -1034,10 +1034,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-17T17:53:04Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "jinchenma94",
                 "repo": "bazi-skill",
-                "stars": 2836,
+                "stars": 2846,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 3,
                 "owner": "leezythu",
                 "repo": "maoxuan-skill",
-                "stars": 1080,
+                "stars": 1082,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1233,7 +1233,7 @@
                 "open_issues": 2,
                 "owner": "yangdongchen66-boop",
                 "repo": "reunion-skill",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1303,7 +1303,7 @@
                 "open_issues": 6,
                 "owner": "alchaincyf",
                 "repo": "nuwa-skill",
-                "stars": 31662,
+                "stars": 31724,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1324,7 +1324,7 @@
                 "open_issues": 40,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 25161,
+                "stars": 25257,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -1353,11 +1353,11 @@
                 "id": 1212163658,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T04:43:34Z",
+                "last_commit": "2026-08-30T02:37:57Z",
                 "open_issues": 15,
                 "owner": "kangarooking",
                 "repo": "cangjie-skill",
-                "stars": 9168,
+                "stars": 9218,
                 "topics": [
                   "agent-workflows",
                   "ai-skills",
@@ -1387,7 +1387,7 @@
                 "open_issues": 3,
                 "owner": "alchaincyf",
                 "repo": "darwin-skill",
-                "stars": 5802,
+                "stars": 5816,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1405,10 +1405,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-29T07:26:56Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3429,
+                "stars": 3431,
                 "topics": [
                   "agents",
                   "claude-code-plugin",
@@ -1440,7 +1440,7 @@
                 "open_issues": 7,
                 "owner": "KKKKhazix",
                 "repo": "human-writing",
-                "stars": 3270,
+                "stars": 3296,
                 "topics": [
                   "agent-skills",
                   "chinese-writing",
@@ -1487,7 +1487,7 @@
                 "open_issues": 2,
                 "owner": "otter1101",
                 "repo": "blogger-distiller",
-                "stars": 605,
+                "stars": 608,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1550,7 +1550,7 @@
                 "open_issues": 0,
                 "owner": "kangarooking",
                 "repo": "director-skills",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "agent-skills",
                   "ai-video",
@@ -1601,11 +1601,11 @@
                 "id": 1261881239,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T16:01:04Z",
+                "last_commit": "2026-08-30T00:18:31Z",
                 "open_issues": 0,
                 "owner": "franklinxkk",
                 "repo": "ai-delivery-spec",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "acceptance-testing",
                   "agent-skills",
@@ -1739,7 +1739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:50:44.739Z",
+    "last_updated": "2026-08-30T16:55:28.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  ",
@@ -1751,7 +1751,7 @@
       "open_issues": 0,
       "owner": "tmstack",
       "repo": "awesome-persona-skills",
-      "stars": 3781,
+      "stars": 3787,
       "topics": [
         "skills"
       ]
