@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T11:54:10Z",
-                "open_issues": 33,
+                "open_issues": 35,
                 "owner": "titanwings",
                 "repo": "distilly",
-                "stars": 24345,
+                "stars": 24369,
                 "topics": [
                   "agent-skills",
                   "agentic-ai",
@@ -62,7 +62,7 @@
                 "open_issues": 10,
                 "owner": "leilei926524-tech",
                 "repo": "anti-distill",
-                "stars": 2410,
+                "stars": 2412,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -203,7 +203,7 @@
                 "open_issues": 21,
                 "owner": "therealXiaomanChu",
                 "repo": "ex-skill",
-                "stars": 6211,
+                "stars": 6222,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -224,7 +224,7 @@
                 "open_issues": 3,
                 "owner": "xiaoheizi8",
                 "repo": "crush-skills",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -245,7 +245,7 @@
                 "open_issues": 3,
                 "owner": "ceetity",
                 "repo": "her-skill",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -391,7 +391,7 @@
                 "open_issues": 20,
                 "owner": "notdog1998",
                 "repo": "yourself-skill",
-                "stars": 3355,
+                "stars": 3354,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -585,6 +585,27 @@
             },
             {
               "node_type": "item",
+              "title": "特朗普.skill",
+              "description": "谈判/权力/传播/行为预判",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "特朗普的思维操作系统。不是模仿秀，是可运行的谈判与权力分析框架。Made with 女娲.skill",
+                "homepage": null,
+                "id": 1203031153,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-08-25T03:03:36Z",
+                "open_issues": 1,
+                "owner": "alchaincyf",
+                "repo": "trump-skill",
+                "stars": 265,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:33:13.383Z"
+            },
+            {
+              "node_type": "item",
               "title": "费曼.skill",
               "description": "学习/教学/科学思维",
               "children": [],
@@ -606,27 +627,6 @@
             },
             {
               "node_type": "item",
-              "title": "特朗普.skill",
-              "description": "谈判/权力/传播/行为预判",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "特朗普的思维操作系统。不是模仿秀，是可运行的谈判与权力分析框架。Made with 女娲.skill",
-                "homepage": null,
-                "id": 1203031153,
-                "language": null,
-                "license": "MIT",
-                "last_commit": "2026-08-25T03:03:36Z",
-                "open_issues": 1,
-                "owner": "alchaincyf",
-                "repo": "trump-skill",
-                "stars": 264,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:33:13.383Z"
-            },
-            {
-              "node_type": "item",
               "title": "纳瓦尔.skill",
               "description": "财富/杠杆/人生哲学",
               "children": [],
@@ -641,7 +641,7 @@
                 "open_issues": 2,
                 "owner": "alchaincyf",
                 "repo": "naval-skill",
-                "stars": 242,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -774,7 +774,7 @@
                 "open_issues": 47,
                 "owner": "KKKKhazix",
                 "repo": "khazix-skills",
-                "stars": 20419,
+                "stars": 20439,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -805,7 +805,7 @@
                 "open_issues": 23,
                 "owner": "alchaincyf",
                 "repo": "zhangxuefeng-skill",
-                "stars": 10244,
+                "stars": 10248,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -826,7 +826,7 @@
                 "open_issues": 18,
                 "owner": "hotcoffeeshake",
                 "repo": "tong-jincheng-skill",
-                "stars": 2605,
+                "stars": 2607,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -906,7 +906,7 @@
                 "id": 1247940076,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T16:38:37Z",
+                "last_commit": "2026-09-04T16:33:57Z",
                 "open_issues": 0,
                 "owner": "ChouChiu",
                 "repo": "heya-skill",
@@ -1037,7 +1037,7 @@
                 "open_issues": 7,
                 "owner": "jinchenma94",
                 "repo": "bazi-skill",
-                "stars": 2932,
+                "stars": 2941,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1058,7 +1058,7 @@
                 "open_issues": 3,
                 "owner": "leezythu",
                 "repo": "maoxuan-skill",
-                "stars": 1104,
+                "stars": 1108,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1075,8 +1075,8 @@
                 "id": 1201167354,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T13:09:14Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-04T23:43:28Z",
+                "open_issues": 3,
                 "owner": "xr843",
                 "repo": "Master-skill",
                 "stars": 382,
@@ -1137,7 +1137,7 @@
                 "open_issues": 0,
                 "owner": "SamadhiFire",
                 "repo": "xinqingnian-maoxuan-skill",
-                "stars": 325,
+                "stars": 328,
                 "topics": [
                   "aiskills",
                   "maoxuan",
@@ -1303,7 +1303,7 @@
                 "open_issues": 6,
                 "owner": "alchaincyf",
                 "repo": "nuwa-skill",
-                "stars": 32050,
+                "stars": 32084,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1321,10 +1321,10 @@
                 "language": "HTML",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-08-07T03:58:08Z",
-                "open_issues": 40,
+                "open_issues": 42,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 25625,
+                "stars": 25671,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -1357,7 +1357,7 @@
                 "open_issues": 16,
                 "owner": "kangarooking",
                 "repo": "cangjie-skill",
-                "stars": 9493,
+                "stars": 9524,
                 "topics": [
                   "agent-workflows",
                   "ai-skills",
@@ -1387,40 +1387,8 @@
                 "open_issues": 4,
                 "owner": "alchaincyf",
                 "repo": "darwin-skill",
-                "stars": 5875,
+                "stars": 5879,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T22:33:13.383Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ContentWriter.skill",
-              "description": "面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
-                "homepage": "https://notfair.co/",
-                "id": 1193374549,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-08-29T07:26:56Z",
-                "open_issues": 13,
-                "owner": "nowork-studio",
-                "repo": "notfair-plugin",
-                "stars": 3451,
-                "topics": [
-                  "agents",
-                  "claude-code-plugin",
-                  "claude-skills",
-                  "gemini-cli-extension",
-                  "geo",
-                  "googleads",
-                  "googleadsmcp",
-                  "mcp",
-                  "metaads",
-                  "seo"
-                ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1440,12 +1408,44 @@
                 "open_issues": 8,
                 "owner": "KKKKhazix",
                 "repo": "human-writing",
-                "stars": 3441,
+                "stars": 3461,
                 "topics": [
                   "agent-skills",
                   "chinese-writing",
                   "creative-writing",
                   "writing-skill"
+                ]
+              },
+              "first_seen": "2026-08-28T22:33:13.383Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ContentWriter.skill",
+              "description": "面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source SEO, GEO, and marketing skills for AI agents.",
+                "homepage": "https://notfair.co/",
+                "id": 1193374549,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-29T07:26:56Z",
+                "open_issues": 13,
+                "owner": "nowork-studio",
+                "repo": "notfair-plugin",
+                "stars": 3452,
+                "topics": [
+                  "agents",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "gemini-cli-extension",
+                  "geo",
+                  "googleads",
+                  "googleadsmcp",
+                  "mcp",
+                  "metaads",
+                  "seo"
                 ]
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1487,7 +1487,7 @@
                 "open_issues": 2,
                 "owner": "otter1101",
                 "repo": "blogger-distiller",
-                "stars": 626,
+                "stars": 627,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1739,7 +1739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:33:00.589Z",
+    "last_updated": "2026-09-05T15:28:13.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  ",
@@ -1751,7 +1751,7 @@
       "open_issues": 1,
       "owner": "tmstack",
       "repo": "awesome-persona-skills",
-      "stars": 3852,
+      "stars": 3857,
       "topics": [
         "skills"
       ]
