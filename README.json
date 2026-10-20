@@ -21,7 +21,7 @@
                 "open_issues": 72,
                 "owner": "titanwings",
                 "repo": "distilly",
-                "stars": 25796,
+                "stars": 25829,
                 "topics": [
                   "agent-skills",
                   "agentic-ai",
@@ -62,7 +62,7 @@
                 "open_issues": 11,
                 "owner": "leilei926524-tech",
                 "repo": "anti-distill",
-                "stars": 2455,
+                "stars": 2457,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -203,7 +203,7 @@
                 "open_issues": 20,
                 "owner": "therealXiaomanChu",
                 "repo": "ex-skill",
-                "stars": 6509,
+                "stars": 6515,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -224,7 +224,7 @@
                 "open_issues": 4,
                 "owner": "xiaoheizi8",
                 "repo": "crush-skills",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -287,7 +287,7 @@
                 "open_issues": 0,
                 "owner": "NatalieCao323",
                 "repo": "partner-skill",
-                "stars": 53,
+                "stars": 54,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -391,7 +391,7 @@
                 "open_issues": 22,
                 "owner": "notdog1998",
                 "repo": "yourself-skill",
-                "stars": 3458,
+                "stars": 3465,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -412,7 +412,7 @@
                 "open_issues": 7,
                 "owner": "agenmod",
                 "repo": "immortal-skill",
-                "stars": 1099,
+                "stars": 1103,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -536,7 +536,7 @@
                 "open_issues": 4,
                 "owner": "alchaincyf",
                 "repo": "steve-jobs-skill",
-                "stars": 965,
+                "stars": 966,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -557,7 +557,7 @@
                 "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "elon-musk-skill",
-                "stars": 547,
+                "stars": 548,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -641,7 +641,7 @@
                 "open_issues": 3,
                 "owner": "alchaincyf",
                 "repo": "naval-skill",
-                "stars": 262,
+                "stars": 263,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -774,7 +774,7 @@
                 "open_issues": 50,
                 "owner": "KKKKhazix",
                 "repo": "khazix-skills",
-                "stars": 21509,
+                "stars": 21532,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -802,10 +802,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-13T06:56:37Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "alchaincyf",
                 "repo": "zhangxuefeng-skill",
-                "stars": 10533,
+                "stars": 10556,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -826,7 +826,7 @@
                 "open_issues": 19,
                 "owner": "hotcoffeeshake",
                 "repo": "tong-jincheng-skill",
-                "stars": 2921,
+                "stars": 2928,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -847,7 +847,7 @@
                 "open_issues": 1,
                 "owner": "alchaincyf",
                 "repo": "sun-yuchen-perspective",
-                "stars": 251,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-29T16:50:44.739Z"
@@ -868,7 +868,7 @@
                 "open_issues": 9,
                 "owner": "Janlaywss",
                 "repo": "hu-chenfeng-skill",
-                "stars": 245,
+                "stars": 246,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -906,7 +906,7 @@
                 "id": 1247940076,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T16:05:40Z",
+                "last_commit": "2026-10-19T18:48:51Z",
                 "open_issues": 0,
                 "owner": "ChouChiu",
                 "repo": "heya-skill",
@@ -1037,7 +1037,7 @@
                 "open_issues": 11,
                 "owner": "jinchenma94",
                 "repo": "bazi-skill",
-                "stars": 3528,
+                "stars": 3537,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1058,7 +1058,28 @@
                 "open_issues": 4,
                 "owner": "leezythu",
                 "repo": "maoxuan-skill",
-                "stars": 1228,
+                "stars": 1231,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:33:13.383Z"
+            },
+            {
+              "node_type": "item",
+              "title": "月老.skill",
+              "description": "赛博月老，用中华传统术数帮你算姻缘",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "yinyuan-skills",
+                "homepage": null,
+                "id": 1201828334,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-04-05T08:09:38Z",
+                "open_issues": 3,
+                "owner": "Ming-H",
+                "repo": "yinyuan-skills",
+                "stars": 469,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1075,8 +1096,8 @@
                 "id": 1201167354,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T12:44:31Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-20T14:00:39Z",
+                "open_issues": 6,
                 "owner": "xr843",
                 "repo": "Master-skill",
                 "stars": 469,
@@ -1097,27 +1118,6 @@
                   "theravada",
                   "tibetan-buddhism"
                 ]
-              },
-              "first_seen": "2026-08-28T22:33:13.383Z"
-            },
-            {
-              "node_type": "item",
-              "title": "月老.skill",
-              "description": "赛博月老，用中华传统术数帮你算姻缘",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "yinyuan-skills",
-                "homepage": null,
-                "id": 1201828334,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-04-05T08:09:38Z",
-                "open_issues": 3,
-                "owner": "Ming-H",
-                "repo": "yinyuan-skills",
-                "stars": 468,
-                "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
             },
@@ -1300,10 +1300,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-17T09:04:27Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "alchaincyf",
                 "repo": "nuwa-skill",
-                "stars": 35061,
+                "stars": 35252,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1324,7 +1324,7 @@
                 "open_issues": 51,
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 28241,
+                "stars": 28323,
                 "topics": [
                   "ai-agent",
                   "claude-code",
@@ -1353,11 +1353,11 @@
                 "id": 1204004374,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T03:59:56Z",
+                "last_commit": "2026-10-20T03:59:16Z",
                 "open_issues": 16,
                 "owner": "handsomestWei",
                 "repo": "patent-disclosure-skill",
-                "stars": 11922,
+                "stars": 11988,
                 "topics": [
                   "chinese",
                   "disclosure",
@@ -1384,7 +1384,7 @@
                 "open_issues": 23,
                 "owner": "kangarooking",
                 "repo": "cangjie-skill",
-                "stars": 11484,
+                "stars": 11513,
                 "topics": [
                   "agent-workflows",
                   "ai-skills",
@@ -1411,10 +1411,10 @@
                 "language": "HTML",
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:16:41Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "alchaincyf",
                 "repo": "darwin-skill",
-                "stars": 6433,
+                "stars": 6474,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1435,7 +1435,7 @@
                 "open_issues": 9,
                 "owner": "KKKKhazix",
                 "repo": "human-writing",
-                "stars": 4134,
+                "stars": 4152,
                 "topics": [
                   "agent-skills",
                   "chinese-writing",
@@ -1457,11 +1457,11 @@
                 "id": 1193374549,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T16:56:49Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-19T19:15:12Z",
+                "open_issues": 5,
                 "owner": "nowork-studio",
                 "repo": "notfair-plugin",
-                "stars": 3960,
+                "stars": 3973,
                 "topics": [
                   "agents",
                   "claude-code-plugin",
@@ -1493,7 +1493,7 @@
                 "open_issues": 0,
                 "owner": "alchaincyf",
                 "repo": "x-mentor-skill",
-                "stars": 1293,
+                "stars": 1298,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 3,
                 "owner": "otter1101",
                 "repo": "blogger-distiller",
-                "stars": 727,
+                "stars": 729,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:33:13.383Z"
@@ -1531,11 +1531,11 @@
                 "id": 1323045322,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T02:35:14Z",
+                "last_commit": "2026-10-20T07:37:24Z",
                 "open_issues": 0,
                 "owner": "kangarooking",
                 "repo": "director-skills",
-                "stars": 209,
+                "stars": 213,
                 "topics": [
                   "agent-skills",
                   "ai-video",
@@ -1690,6 +1690,60 @@
             },
             {
               "node_type": "item",
+              "title": "汇报.skill",
+              "description": "别让做过的事最后只剩一句“已完成”：把零散材料按你的语气，写成适合不同读者的日报、周报和阶段汇报",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "你做过的事，不该最后只剩一句“已完成”。不要将时间浪费在：重复的汇报、日报、周报、月报上…. 去做你想做的事 ; 去爱你爱的人。",
+                "homepage": null,
+                "id": 1352181012,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-01T09:38:39Z",
+                "open_issues": 0,
+                "owner": "Luious-LYH",
+                "repo": "huibao-skill",
+                "stars": 6,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "claude-code",
+                  "codex",
+                  "productivity",
+                  "work-reports"
+                ]
+              },
+              "first_seen": "2026-09-30T18:04:44.321Z"
+            },
+            {
+              "node_type": "item",
+              "title": "多比.skill",
+              "description": "一个教AI如何使唤人类多比的skill",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A skill to tell AI how to use human as Dobby",
+                "homepage": null,
+                "id": 1206362948,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2026-04-09T23:28:47Z",
+                "open_issues": 0,
+                "owner": "LittleLittleCloud",
+                "repo": "Dobby",
+                "stars": 6,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "dobby",
+                  "skills"
+                ]
+              },
+              "first_seen": "2026-08-28T22:33:13.383Z"
+            },
+            {
+              "node_type": "item",
               "title": "图鉴.skill",
               "description": "跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐",
               "children": [],
@@ -1732,60 +1786,6 @@
             },
             {
               "node_type": "item",
-              "title": "汇报.skill",
-              "description": "别让做过的事最后只剩一句“已完成”：把零散材料按你的语气，写成适合不同读者的日报、周报和阶段汇报",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "你做过的事，不该最后只剩一句“已完成”。不要将时间浪费在：重复的汇报、日报、周报、月报上…. 去做你想做的事 ; 去爱你爱的人。",
-                "homepage": null,
-                "id": 1352181012,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-01T09:38:39Z",
-                "open_issues": 0,
-                "owner": "Luious-LYH",
-                "repo": "huibao-skill",
-                "stars": 5,
-                "topics": [
-                  "agent-skills",
-                  "ai-agents",
-                  "claude-code",
-                  "codex",
-                  "productivity",
-                  "work-reports"
-                ]
-              },
-              "first_seen": "2026-09-30T18:04:44.321Z"
-            },
-            {
-              "node_type": "item",
-              "title": "多比.skill",
-              "description": "一个教AI如何使唤人类多比的skill",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A skill to tell AI how to use human as Dobby",
-                "homepage": null,
-                "id": 1206362948,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2026-04-09T23:28:47Z",
-                "open_issues": 0,
-                "owner": "LittleLittleCloud",
-                "repo": "Dobby",
-                "stars": 5,
-                "topics": [
-                  "ai",
-                  "claude",
-                  "dobby",
-                  "skills"
-                ]
-              },
-              "first_seen": "2026-08-28T22:33:13.383Z"
-            },
-            {
-              "node_type": "item",
               "title": "YYLO Skills.skill",
               "description": "面向编码 Agent 的任务编排技能合集：看板任务管理、项目理解、计划拆解与 Ralph 自主执行循环，驱动 Claude Code 类 CLI 全流程交付任务",
               "children": [],
@@ -1815,7 +1815,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:48:18.880Z",
+    "last_updated": "2026-10-20T17:26:13.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  ",
@@ -1827,7 +1827,7 @@
       "open_issues": 0,
       "owner": "tmstack",
       "repo": "awesome-persona-skills",
-      "stars": 4251,
+      "stars": 4269,
       "topics": [
         "skills"
       ]
