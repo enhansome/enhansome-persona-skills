@@ -35,11 +35,11 @@
 
 ### 职场与学术
 
-* [同事.skill](https://github.com/titanwings/colleague-skill) ⭐ 26,837 | 🐛 75 | 🌐 Python | 📅 2026-10-13 - 将冰冷的离别化为温暖的 Skill
-* [反蒸馏.skill](https://github.com/leilei926524-tech/anti-distill) ⭐ 2,494 | 🐛 11 | 📅 2026-07-02 - 公司让你写 Skill？把自己变成随叫随到的AI？想都别想
+* [同事.skill](https://github.com/titanwings/colleague-skill) ⭐ 26,865 | 🐛 75 | 🌐 Python | 📅 2026-10-13 - 将冰冷的离别化为温暖的 Skill
+* [反蒸馏.skill](https://github.com/leilei926524-tech/anti-distill) ⭐ 2,495 | 🐛 11 | 📅 2026-07-02 - 公司让你写 Skill？把自己变成随叫随到的AI？想都别想
 * [导师.skill](https://github.com/ybq22/supervisor) ⭐ 178 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-07 - 导师不回答你？那就把导师变成秒回消息的导师
 * [师兄.skill](https://github.com/zhanghaichao520/senpai-skill) ⭐ 91 | 🐛 2 | 🌐 Python | 📅 2026-08-31 - 把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill
-* [大学老师.skill](https://github.com/CommitHu502Craft/professor-skill) ⭐ 66 | 🐛 6 | 🌐 Python | 📅 2026-04-11 - 老师不划重点，那就自己造一个会划重点的老师
+* [大学老师.skill](https://github.com/CommitHu502Craft/professor-skill) ⭐ 67 | 🐛 6 | 🌐 Python | 📅 2026-04-11 - 老师不划重点，那就自己造一个会划重点的老师
 * [HR.skill](https://github.com/Schlaflied/hr-skill) ⭐ 16 | 🐛 0 | 📅 2026-04-06 - 生成一封措辞完美、废话连篇、令人心碎的拒信
 * [老板.skill](https://github.com/vogtsw/boss-skills) - 把老板的聊天记录、会议纪要、批注和项目材料蒸馏成 Skill
 
@@ -56,19 +56,19 @@
 
 ### 自我成长
 
-* [自己.skill](https://github.com/notdog1998/yourself-skill) ⭐ 3,550 | 🐛 22 | 🌐 Python | 📅 2026-04-01 - 与其蒸馏别人，不如蒸馏自己
-* [永生.skill](https://github.com/agenmod/immortal-skill) ⭐ 1,157 | 🐛 8 | 🌐 Python | 📅 2026-04-15 - 不蒸馒头争口气！顺便还能蒸馏下身边的人
+* [自己.skill](https://github.com/notdog1998/yourself-skill) ⭐ 3,554 | 🐛 22 | 🌐 Python | 📅 2026-04-01 - 与其蒸馏别人，不如蒸馏自己
+* [永生.skill](https://github.com/agenmod/immortal-skill) ⭐ 1,158 | 🐛 8 | 🌐 Python | 📅 2026-04-15 - 不蒸馒头争口气！顺便还能蒸馏下身边的人
 * [Relic.skill](https://github.com/Ylsssq926/relic.skill) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-10-22 - 万物皆可 Relic — 不只蒸馏人，宠物、关系、地方、团队、时刻都能永生
 * [数字人生.skill](https://github.com/wildbyteai/digital-life) ⭐ 68 | 🐛 0 | 🌐 Python | 📅 2026-06-30 - 你不是被数据定义的人。但你会被自己反复留下的痕迹，慢慢塑形
 * [韭菜.skill](https://github.com/tmstack/retail-investors) ⭐ 19 | 🐛 1 | 📅 2026-04-08 - 如果再给我一次机会，我一定会在赚钱的时候卖掉
 
 ### 商业思维
 
-* [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) ⭐ 986 | 🐛 0 | 📅 2026-11-15 - 产品/设计/战略
-* [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) ⭐ 585 | 🐛 0 | 📅 2026-11-15 - 工程/成本/第一性原理
+* [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) ⭐ 987 | 🐛 0 | 📅 2026-11-15 - 产品/设计/战略
+* [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) ⭐ 586 | 🐛 0 | 📅 2026-11-15 - 工程/成本/第一性原理
 * [芒格.skill](https://github.com/alchaincyf/munger-skill) ⭐ 409 | 🐛 0 | 📅 2026-11-15 - 投资/多元思维/逆向思考
 * [费曼.skill](https://github.com/alchaincyf/feynman-skill) ⭐ 323 | 🐛 0 | 📅 2026-11-15 - 学习/教学/科学思维
-* [特朗普.skill](https://github.com/alchaincyf/trump-skill) ⭐ 279 | 🐛 0 | 📅 2026-10-13 - 谈判/权力/传播/行为预判
+* [特朗普.skill](https://github.com/alchaincyf/trump-skill) ⭐ 278 | 🐛 0 | 📅 2026-10-13 - 谈判/权力/传播/行为预判
 * [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) ⭐ 276 | 🐛 1 | 📅 2026-10-13 - 财富/杠杆/人生哲学
 * [巴菲特.skill](https://github.com/will2025btc/buffett-perspective) ⭐ 216 | 🐛 3 | 📅 2026-04-06 - 巴菲特思维操作系统
 * [张一鸣.skill](https://github.com/alchaincyf/zhang-yiming-skill) ⭐ 184 | 🐛 0 | 📅 2026-10-13 - 产品/组织/全球化/人才
@@ -78,9 +78,9 @@
 
 ### 网络名人
 
-* [卡兹克.skill](https://github.com/KKKKhazix/khazix-skills) ⭐ 22,520 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - 数字生命卡兹克开源的 AI Skills 合集
-* [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,819 | 🐛 0 | 📅 2026-10-13 - 教育/职业规划/阶层流动
-* [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) ⭐ 3,010 | 🐛 19 | 📅 2026-11-23 - 让深情祖师爷童锦程用他的直白和人性洞察，帮你看透关系、读懂人心
+* [卡兹克.skill](https://github.com/KKKKhazix/khazix-skills) ⭐ 22,539 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - 数字生命卡兹克开源的 AI Skills 合集
+* [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,827 | 🐛 0 | 📅 2026-10-13 - 教育/职业规划/阶层流动
+* [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) ⭐ 3,012 | 🐛 19 | 📅 2026-11-23 - 让深情祖师爷童锦程用他的直白和人性洞察，帮你看透关系、读懂人心
 * [孙宇晨.skill](https://github.com/alchaincyf/sun-yuchen-perspective) ⭐ 256 | 🐛 0 | 📅 2026-10-13 - 宁可背负骂名把事情做成，也不做悲剧英雄
 * [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) ⭐ 249 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展
 * [峰哥.skill](https://github.com/Walshyu/fengge-skill) ⭐ 54 | 🐛 0 | 📅 2026-04-07 - B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统
@@ -93,10 +93,10 @@
 
 ### 传统文化与哲学
 
-* [赛博算命.skill](https://github.com/jinchenma94/bazi-skill) ⭐ 4,252 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - 通过交互式对话收集出生信息，排出四柱八字，参照九本经典命理典籍进行专业分析
-* [毛选.skill](https://github.com/leezythu/maoxuan-skill) ⭐ 1,312 | 🐛 3 | 📅 2026-08-19 - 让毛选的思维框架帮你分析问题、制定策略、看透本质
-* [月老.skill](https://github.com/Ming-H/yinyuan-skills) ⭐ 651 | 🐛 4 | 📅 2026-04-05 - 赛博月老，用中华传统术数帮你算姻缘
-* [佛教大师.skill](https://github.com/xr843/Master-skill) ⭐ 600 | 🐛 7 | 🌐 Python | 📅 2026-11-24 - 依据历代汉传祖师大德的教学风格，通达 AI 学习伙伴
+* [赛博算命.skill](https://github.com/jinchenma94/bazi-skill) ⭐ 4,265 | 🐛 12 | 🌐 Python | 📅 2026-08-17 - 通过交互式对话收集出生信息，排出四柱八字，参照九本经典命理典籍进行专业分析
+* [毛选.skill](https://github.com/leezythu/maoxuan-skill) ⭐ 1,313 | 🐛 3 | 📅 2026-08-19 - 让毛选的思维框架帮你分析问题、制定策略、看透本质
+* [月老.skill](https://github.com/Ming-H/yinyuan-skills) ⭐ 652 | 🐛 4 | 📅 2026-04-05 - 赛博月老，用中华传统术数帮你算姻缘
+* [佛教大师.skill](https://github.com/xr843/Master-skill) ⭐ 602 | 🐛 7 | 🌐 Python | 📅 2026-11-25 - 依据历代汉传祖师大德的教学风格，通达 AI 学习伙伴
 * [新青年.Skill](https://github.com/SamadhiFire/xinqingnian-skill) ⭐ 378 | 🐛 0 | 🌐 HTML | 📅 2026-08-12 - 新青年来中国是能解决问题，会解决问题的
 * [金刚经.skill](https://github.com/dull-bird/diamond-sutra-skill) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-05 - 凡所有相，皆是虚妄。若见诸相非相，即见如来
 * [永乐大典.skill](https://github.com/momozi1996/yongledadian-skill) ⭐ 10 | 🐛 0 | 📅 2026-04-22 - 世界有史以来最大的百科全书、华夏文明 600 年的超级著作，永乐大典，永存！
@@ -110,20 +110,20 @@
 
 ### 工具类
 
-* [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 38,954 | 🐛 1 | 🌐 Python | 📅 2026-11-21 - 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工
-* [PPT.skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 30,368 | 🐛 52 | 🌐 HTML | 📅 2026-10-30 - 制作电子杂志风网页 PPT
-* [中国专利.skill](https://github.com/handsomestWei/patent-disclosure-skill) ⭐ 13,824 | 🐛 20 | 🌐 Python | 📅 2026-11-24 - 专利点挖掘、交底书（发明/实用/外观）与申请文件编写；按图或权要等多条件检索；通俗解读专利和地图探索；审查政策解读；辅助审查答复
-* [仓颉.skill](https://github.com/kangarooking/cangjie-skill) ⭐ 13,297 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - 把书、长视频、播客里的方法论，蒸馏成可调用的 AI Skills
-* [达尔文.skill](https://github.com/alchaincyf/darwin-skill) ⭐ 7,050 | 🐛 1 | 🌐 HTML | 📅 2026-11-18 - 像训练模型一样优化你的 Agent Skills
-* [写作.skill](https://github.com/KKKKhazix/human-writing) ⭐ 4,731 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - 活人感写作，让模型写出来的文章读起来像一个具体的人在说话——知道一些事，有判断，偶尔岔开一句，还能接回来
-* [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) ⭐ 4,309 | 🐛 5 | 📅 2026-11-17 - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
-* [X导师.skill](https://github.com/alchaincyf/x-mentor-skill) ⭐ 1,350 | 🐛 0 | 📅 2026-10-13 - 格式化是你能对写作做的最简单的10倍提升
-* [博主蒸馏器.skill](https://github.com/otter1101/blogger-distiller) ⭐ 804 | 🐛 3 | 🌐 Python | 📅 2026-09-23 - 不靠喂料，主动出击——自动爬取任意小红书博主的全量笔记，蒸馏出可直接安装的创作指南 Skill
-* [导演.skill](https://github.com/kangarooking/director-skills) ⭐ 307 | 🐛 0 | 🌐 Python | 📅 2026-10-20 - 让 Agent 像导演一样，把创意、剧本、分镜、生成与成片组织成可执行的 AI 视频工作流
+* [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 39,027 | 🐛 2 | 🌐 Python | 📅 2026-11-21 - 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工
+* [PPT.skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 30,420 | 🐛 52 | 🌐 HTML | 📅 2026-10-30 - 制作电子杂志风网页 PPT
+* [中国专利.skill](https://github.com/handsomestWei/patent-disclosure-skill) ⭐ 13,845 | 🐛 20 | 🌐 Python | 📅 2026-11-25 - 专利点挖掘、交底书（发明/实用/外观）与申请文件编写；按图或权要等多条件检索；通俗解读专利和地图探索；审查政策解读；辅助审查答复
+* [仓颉.skill](https://github.com/kangarooking/cangjie-skill) ⭐ 13,323 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - 把书、长视频、播客里的方法论，蒸馏成可调用的 AI Skills
+* [达尔文.skill](https://github.com/alchaincyf/darwin-skill) ⭐ 7,060 | 🐛 0 | 🌐 HTML | 📅 2026-11-18 - 像训练模型一样优化你的 Agent Skills
+* [写作.skill](https://github.com/KKKKhazix/human-writing) ⭐ 4,740 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - 活人感写作，让模型写出来的文章读起来像一个具体的人在说话——知道一些事，有判断，偶尔岔开一句，还能接回来
+* [ContentWriter.skill](https://github.com/nowork-studio/toprank/blob/main/seo/content-writer/SKILL.md) ⭐ 4,307 | 🐛 5 | 📅 2026-11-17 - 面向 SEO 内容场景的写作 skill，可围绕关键词生成博客、落地页与页面优化稿件
+* [X导师.skill](https://github.com/alchaincyf/x-mentor-skill) ⭐ 1,351 | 🐛 0 | 📅 2026-10-13 - 格式化是你能对写作做的最简单的10倍提升
+* [博主蒸馏器.skill](https://github.com/otter1101/blogger-distiller) ⭐ 805 | 🐛 3 | 🌐 Python | 📅 2026-09-23 - 不靠喂料，主动出击——自动爬取任意小红书博主的全量笔记，蒸馏出可直接安装的创作指南 Skill
+* [导演.skill](https://github.com/kangarooking/director-skills) ⭐ 310 | 🐛 0 | 🌐 Python | 📅 2026-10-20 - 让 Agent 像导演一样，把创意、剧本、分镜、生成与成片组织成可执行的 AI 视频工作流
 * [饕餮.skill](https://github.com/binggandata/bggg-skill-taotie) ⚠️ Archived - 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化
 * [博主.skill](https://github.com/YourongZhou/chat_with_me) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2026-05-17 - 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill
 * [万物皆可角色.skill](https://github.com/MIMIFY/skill_everyone) ⭐ 69 | 🐛 0 | 🌐 HTML | 📅 2026-04-13 - 小说、游戏、动漫、影视、自创角色——自动调研或手动喂料 + 心理建模，让ta开口说话陪伴
-* **[AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-11-20** - Spec-driven delivery framework: PRD+FRR+AC-YAML+WBS from prototypes. Works with Claude Code/Cursor/Codex. v4.9.7.
+* **[AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-11-25** - Spec-driven delivery framework: PRD+FRR+AC-YAML+WBS from prototypes. Works with Claude Code/Cursor/Codex. v4.9.7.
 * [大案牍库.skill](https://github.com/LittleLittleCloud/The-Grand-Archive/tree/main/skills/dak) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-19 - 专为 AI 设计的新闻档案库 Skill，覆盖 30+ 信源，每 30 分钟更新，可搜索、浏览并结构化分析新闻素材
 * [汇报.skill](https://github.com/Luious-LYH/huibao-skill) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-09-01 - 别让做过的事最后只剩一句“已完成”：把零散材料按你的语气，写成适合不同读者的日报、周报和阶段汇报
 * [多比.skill](https://github.com/LittleLittleCloud/Dobby) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-04-09 - 一个教AI如何使唤人类多比的skill
@@ -139,4 +139,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
